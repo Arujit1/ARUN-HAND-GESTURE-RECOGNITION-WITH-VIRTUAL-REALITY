@@ -1,4 +1,4 @@
-# AI-BASED-HAND-GESTURE-RECOGNITION-WITH-VIRTUAL-REALITY
+# AI-BASED-HAND-GESTURE-RECOGNITION-VOLUME
 Hand gesture recognition (HGR) using artificial intelligence (AI) has significantly advanced the field of virtual reality (VR) by enabling intuitive and immersive users experiences. 
 Language-(python)
 Software-(Pycharm)
